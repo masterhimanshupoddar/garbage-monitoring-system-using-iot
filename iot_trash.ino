@@ -1,8 +1,5 @@
 /*
- * made by technvation
- * uses open source blynk app to send data over the interent
- * This example code is in public domain.
- * feel free to modify, change, improve
+ * made by Himanshu
  */
 #define BLYNK_PRINT Serial
 #include <Ultrasonic.h>
